@@ -1,41 +1,47 @@
-# Hi, I'm Opeyemi 👋
+# Opeyemi Olaitan — Frontend Developer
 
-I’m a frontend developer focused on building clean, functional, and user-friendly web applications.  
-Right now, I’m sharpening my core skills and turning what I learn into real projects.
+I build web interfaces that work. Currently focused on core frontend stack
+and shipping real projects.
 
-## 🧠 About Me
+---
 
-- 💻 Currently focused on: JavaScript and core web development  
-- 📚 Background: Computer Science student  
-- 🎯 Goal: Become a solid full-stack developer and build real-world solutions  
-- ⚡ Approach: I learn by building, breaking things, and fixing them  
+## Stack
 
-## 🛠 Tech Stack
+HTML · CSS · JavaScript · Git · GitHub · Responsive Design · Netlify · Vercel
 
-- HTML  
-- CSS  
-- JavaScript  
-- Git & GitHub  
+---
 
-## 📌 Key Projects
+## Projects
 
-🔹 Quiz App: A quiz application built with HTML CSS & JavaScript.                                                                                                                           
-🔹 My personal website (incomplete): my personal website using HTML CSS & javaScript.  
-🔹 Youtube: a clone of the youtube layout using HTML & CSS.  
+**[Shamz Delight Café](https://was-sham-deli-cafe.netlify.app/)** — Client work
+Café website. Responsive, production-deployed.
 
+---
 
-### 🔹 More projects coming...
-I’m actively building and improving my projects as I grow.
+**[Vuyani Noshery](https://vuyani-noshery.netlify.app/)** — Client work
+Pastry business website. Responsive, production-deployed.
 
+---
 
-## 📈 What I'm Working On
+**[PES — Personal Execution System](https://scheduler-5.netlify.app/)**
+PWA study scheduler with live schedule engine, task tracker, and
+notification system. Built around a real university timetable.
+Vanilla JS, service worker, installable on mobile.
 
-- Improving my JavaScript fundamentals  
-- Writing cleaner and more structured code  
-- Learning how to build real-world web applications  
+---
 
+**[Pomodoro Timer](https://pomodoro-timer-two-lilac.vercel.app/)**
+Focus timer with work/break session management.
 
-## ⚡ Note
+---
 
-I’m still growing, but everything here reflects what I’ve actually built and understood.  
-No shortcuts — just consistent progress.
+## Currently
+
+- Strengthening JavaScript fundamentals
+- Learning React
+
+---
+
+## Contact
+
+[Email](mailto:johnolaitan22@gmail.com)
