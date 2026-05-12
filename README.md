@@ -1,13 +1,35 @@
-# Opeyemi Olaitan — Frontend Developer
+# Hi, I am Opeyemi Olaitan 👋
 
-I build web interfaces that work. Currently focused on core frontend stack
-and shipping real projects.
+I build web interfaces that work. Currently focused on core frontend stack and shipping real projects.
+
+---
+
+## About Me
+
+I'm a Computer Science student at the Air Force Institute of
+Technology, Nigeria. About 4 months of active building — client
+work shipped, real projects deployed.
+
+I have always been creative and I realized programming
+lets me solve almost any problem I can think of. That hasn't
+gotten old.
+
+Long term: full-stack developer, then software/AI engineer.
+I'm building toward that one project at a time.
 
 ---
 
 ## Stack
 
-HTML · CSS · JavaScript · Git · GitHub · Responsive Design · Netlify · Vercel
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
@@ -24,9 +46,7 @@ Pastry business website. Responsive, production-deployed.
 ---
 
 **[PES — Personal Execution System](https://scheduler-5.netlify.app/)**
-PWA study scheduler with live schedule engine, task tracker, and
-notification system. Built around a real university timetable.
-Vanilla JS, service worker, installable on mobile.
+PWA study scheduler with live schedule engine, task tracker, and notification system. Built around a real university timetable. Vanilla JS, service worker, installable on mobile.
 
 ---
 
@@ -44,4 +64,8 @@ Focus timer with work/break session management.
 
 ## Contact
 
-[Email](mailto:johnolaitan22@gmail.com)
+<p>
+  <a href="mailto:johnolaitan22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
