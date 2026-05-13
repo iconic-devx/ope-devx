@@ -46,7 +46,8 @@ I'm building toward that one project at a time.
 
 
 🔹  **[PES — Personal Execution System](https://scheduler-5.netlify.app/)**
-    PWA study scheduler with live schedule engine, task tracker, and notification system. Built around a real university timetable. Vanilla JS, service worker, installable on mobile.
+    PWA study scheduler with live schedule engine, task tracker, and notification system. 
+    Built around a real university timetable. Vanilla JS, service worker, installable on mobile.
 
 
 
