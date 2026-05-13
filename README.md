@@ -39,16 +39,19 @@ I'm building toward that one project at a time.
     Café website. Responsive, production-deployed.
 
 
+
 🔹 **[Vuyani Noshery](https://vuyani-noshery.netlify.app/)** — Client work
     Pastry business website. Responsive, production-deployed.
 
 
+
 🔹  **[PES — Personal Execution System](https://scheduler-5.netlify.app/)**
-PWA study scheduler with live schedule engine, task tracker, and notification system. Built around a real university timetable. Vanilla JS, service worker, installable on mobile.
+    PWA study scheduler with live schedule engine, task tracker, and notification system. Built around a real university timetable. Vanilla JS, service worker, installable on mobile.
+
 
 
 🔹 **[Pomodoro Timer](https://pomodoro-timer-two-lilac.vercel.app/)**
-Focus timer with work/break session management.
+    Focus timer with work/break session management.
 
 ---
 
