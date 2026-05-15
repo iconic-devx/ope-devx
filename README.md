@@ -38,7 +38,6 @@ Currently focused on core frontend stack and actively building and shipping real
 🔹 **[Pomodoro Timer](https://pomodoro-timer-two-lilac.vercel.app/)**
     Focus timer with work/break session management.
 
----
 
 ## Currently
 
