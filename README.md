@@ -6,7 +6,7 @@ I build web interfaces that work. Currently focused on core frontend stack and s
 
 ## About Me
 
-I'm a Computer Science student at the Air Force Institute ofTechnology, Nigeria. 
+I'm a Computer Science student at the Air Force Institute ofTechnology, Nigeria.                                                                                                            
 I'm Actively building, shipping projects and sharpening my core skills. 
 
 Long term: full-stack developer, then software/AI engineer.
