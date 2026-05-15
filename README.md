@@ -7,12 +7,8 @@ I build web interfaces that work. Currently focused on core frontend stack and s
 ## About Me
 
 I'm a Computer Science student at the Air Force Institute of
-Technology, Nigeria. About 4 months of active building — client
-work shipped, real projects deployed.
-
-I have always been creative and I realized programming
-lets me solve almost any problem I can think of. That hasn't
-gotten old.
+Technology, Nigeria. I'm Actively building — client
+work and shipping real projects.
 
 Long term: full-stack developer, then software/AI engineer.
 I'm building toward that one project at a time.
