@@ -2,14 +2,14 @@
 
 ---
 
-## About Me
+## ABOUT ME
 
 I'm a computer science student at the Air Force Institute of Technology, Nigeria.
 Currently focused on core frontend stack and actively building and shipping real projects.
 
 
 
-## Stack
+## TECH STACK
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
