@@ -1,8 +1,5 @@
 # Hi, I am Opeyemi Olaitan 👋
 
-
-## ABOUT ME
-
 I'm a computer science student at the Air Force Institute of Technology, Nigeria.
 Currently focused on core frontend stack and actively building and shipping real projects.
 
