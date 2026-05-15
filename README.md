@@ -1,6 +1,5 @@
 # Hi, I am Opeyemi Olaitan 👋
 
----
 
 ## ABOUT ME
 
