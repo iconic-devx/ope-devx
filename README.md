@@ -45,7 +45,6 @@ Currently focused on core frontend stack and actively building and shipping real
 - Strengthening JavaScript fundamentals
 - Learning React
 
----
 
 ## Contact
 
