@@ -31,10 +31,7 @@ Currently focused on core frontend stack and actively building and shipping real
   &nbsp;&nbsp;
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="45" height="45"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="45"/>
-   &nbsp;&nbsp;
+
 
 </p>
 
