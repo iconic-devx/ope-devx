@@ -2,7 +2,7 @@
 
 ## About me
 I'm a computer science student at the Air Force Institute of Technology, Nigeria.<br/>
-Currently focused on core frontend stack and actively building and shipping real projects.
+Currently focused on core frontend stack and actively building and shipping projects.
 
 
 
