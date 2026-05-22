@@ -35,32 +35,15 @@ Currently focused on core frontend stack and actively building and shipping proj
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   &nbsp;&nbsp;
 
-  <!-- GitHub -->
-  <img 
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" 
-    alt="github" 
-    width="45" 
-    height="45"
-    style="background-color:white; border-radius:50%; padding:4px;"
-  />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="45" height="45"/>
   &nbsp;&nbsp;
 
   <!-- Vite -->
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" 
-    alt="vite" 
-    width="45" 
-    height="45"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="45" height="45"/>
   &nbsp;&nbsp;
 
   <!-- VS Code -->
-  <img 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" 
-    alt="vscode" 
-    width="45" 
-    height="45"
-  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
 <!-- <p>
